@@ -1,3 +1,12 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "code": "Y432-XNDM-JRAW-MZJI-G4AH-J6K3-XM",
+      "device": "TEST1234",
+      "expire": "260913",
+      "status": "active",
+      "note": "smoke-test",
+      "updated_at": "2026-09-12 19:25:59"
+    }
+  ]
 }
