@@ -1,12 +1,12 @@
 {
   "licenses": [
     {
-      "code": "Y432-XNDM-JRAW-MZJI-G4AH-J6K3-XM",
-      "device": "TEST1234",
-      "expire": "260913",
+      "code": "A5U5-UEA3-WKPH-QPEN-QBKT-42RU-KE",
+      "device": "692983F3",
+      "expire": "261012",
       "status": "active",
-      "note": "smoke-test",
-      "updated_at": "2026-09-12 19:25:59"
+      "note": "真机测试-30天",
+      "updated_at": "2026-09-12 19:26:58"
     }
   ]
 }
