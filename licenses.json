@@ -7,30 +7,6 @@
       "status": "active",
       "note": "真机测试-30天",
       "updated_at": "renew-test"
-    },
-    {
-      "code": "GZDZ-GEYN-253A-MEYA-CCMT-YHGC-EQ",
-      "device": "AAAABEE1",
-      "expire": "260919",
-      "status": "active",
-      "note": "测试1",
-      "updated_at": "2026-09-12 20:46:58"
-    },
-    {
-      "code": "53WG-YMTJ-EDDB-6IOI-2SLQ-IOZ4-6U",
-      "device": "AAAABEE2",
-      "expire": "260919",
-      "status": "active",
-      "note": "测试2",
-      "updated_at": "2026-09-12 20:46:58"
-    },
-    {
-      "code": "J7W2-JASU-KTL4-EFTR-XOBI-K76A-2A",
-      "device": "AAAABEE3",
-      "expire": "260919",
-      "status": "active",
-      "note": "测试3",
-      "updated_at": "2026-09-12 20:46:58"
     }
   ]
 }
