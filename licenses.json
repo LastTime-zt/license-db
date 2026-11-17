@@ -1,1 +1,35 @@
-{"licenses":[{"code":"QHLV-SBQV-Q5MZ-COLN-J42V-DTW6-D4","device":"3A4B8420","expire":"261217","status":"active","note":"","ver":"normal","updated_at":"2026-11-17 15:21:44","account":"610427199605204812","pwd":"Ydmk12345.6","name":"黄超","tel":"15592014999"},{"code":"3B3G-2C25-DPXZ-IXBB-OLBE-P3GK-XU","device":"449F7909","expire":"271117","status":"active","note":"","ver":"normal","updated_at":"2026-11-17 15:18:26"}]}
+{
+  "licenses": [
+    {
+      "code": "QHLV-SBQV-Q5MZ-COLN-J42V-DTW6-D4",
+      "device": "3A4B8420",
+      "expire": "261217",
+      "status": "active",
+      "note": "",
+      "ver": "normal",
+      "updated_at": "2026-11-17 15:21:44",
+      "account": "610427199605204812",
+      "pwd": "Ydmk12345.6",
+      "name": "黄超",
+      "tel": "15592014999"
+    },
+    {
+      "code": "3B3G-2C25-DPXZ-IXBB-OLBE-P3GK-XU",
+      "device": "449F7909",
+      "expire": "271117",
+      "status": "active",
+      "note": "",
+      "ver": "normal",
+      "updated_at": "2026-11-17 15:18:26"
+    },
+    {
+      "code": "3LEE-7III-BIPQ-U4A5-5N6R-T4RX-KM",
+      "device": "B457EDB8",
+      "expire": "261217",
+      "status": "active",
+      "note": "",
+      "ver": "normal",
+      "updated_at": "2026-11-17 15:32:41"
+    }
+  ]
+}
