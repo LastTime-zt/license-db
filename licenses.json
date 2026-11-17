@@ -1,3 +1,13 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "code": "QHLV-SBQV-Q5MZ-COLN-J42V-DTW6-D4",
+      "device": "3A4B8420",
+      "expire": "261217",
+      "status": "active",
+      "note": "",
+      "ver": "normal",
+      "updated_at": "2026-11-17 15:16:09"
+    }
+  ]
 }
