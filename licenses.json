@@ -84,6 +84,15 @@
       "updated_at": "2026-11-18 16:54:48",
       "account": "610221199106164618",
       "pwd": "123456"
+    },
+    {
+      "code": "FTXU-7IUR-IPPJ-SLOB-A5XA-ABVE-54",
+      "device": "653BA103",
+      "expire": "261123",
+      "status": "active",
+      "note": "",
+      "ver": "normal",
+      "updated_at": "2026-11-18 17:56:55"
     }
   ]
 }
